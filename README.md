@@ -10,3 +10,7 @@ https://www.udemy.com/course/next-js-wordpress/?referralCode=49EB7D4FC7617F4FD9F
 # start up
 
 - npx create-next-app -e https://github.com/tomphill/hot-dang-homes-course
+
+# Set up Nextjs
+
+- Set up Nextjs First query for Wordpress data with GraphQL
