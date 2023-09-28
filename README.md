@@ -18,3 +18,4 @@ https://www.udemy.com/course/next-js-wordpress/?referralCode=49EB7D4FC7617F4FD9F
 # Building the first pages
 
 - Create homepage + query for qutenberg blocks
+- Create the BlockRenderer component & Clean block data
