@@ -14,3 +14,7 @@ https://www.udemy.com/course/next-js-wordpress/?referralCode=49EB7D4FC7617F4FD9F
 # Set up Nextjs
 
 - Set up Nextjs First query for Wordpress data with GraphQL
+
+# Building the first pages
+
+- Create homepage + query for qutenberg blocks
